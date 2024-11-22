@@ -1,1 +1,1 @@
-# powerbi_hoteldata
+This dashboard is created using hotel data  highlighting key metrics that showcase important aspects of the dataset. It includes interactive visualizations and trends based on various features, providing valuable insights.
